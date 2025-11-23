@@ -1,0 +1,7 @@
+{
+  "name": "PM-TrungK2ok2",
+  "description": "Một ứng dụng web để hỗ trợ học tiếng Trung Bắc Hải, bao gồm các bài học từ B16 đến B30 với các phần Từ mới, Bài Khóa, Giao tiếp và Bài tập.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
